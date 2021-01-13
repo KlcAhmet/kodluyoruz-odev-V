@@ -1,0 +1,36 @@
+@import url(https://fonts.googleapis.com/css?family=Damion);
+.icon {
+    color: #004d40;
+    font-size: 3em;
+    -webkit-transition: all 0.2s cubic-bezier(0.075, 0.82, 0.165, 1);
+    -moz-transition: all 0.2s cubic-bezier(0.075, 0.82, 0.165, 1);
+    transition: all 0.2s cubic-bezier(0.075, 0.82, 0.165, 1);
+}
+
+#circ {
+    text-align: center;
+    margin: 0 auto;
+    float: none;
+}
+
+#circ ul {
+    list-style: none;
+    padding: 0;
+}
+
+#circ ul li {
+    border-radius: 50%;
+    border: solid 8px #00897b;
+    position: relative;
+    -webkit-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    transition: all 0.4s;
+}
+
+#circ ul li:hover {
+    border: solid 8px #004d40;
+    -webkit-transition: all 0.4s;
+    -moz-transition: all 0.4s;
+    transition: all 0.4s;
+    cursor: pointer;
+}
