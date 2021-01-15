@@ -1,8 +1,11 @@
+
 # About The Project
 
-Data Warehouse Template
--   [View Demo on Github](https://klcahmet.github.io/kodluyoruz-odev-V/)
--   [Codepen.io](https://codepen.io/klcahmet/pen/KKgGoyE)
 
+Day - Night 
 
-![enter image description here](https://raw.githubusercontent.com/KlcAhmet/kodluyoruz-odev-V/main/screenshot/iPhone-XR-XS-Max-414x896.png)
+-  [View Demo on Github](https://klcahmet.github.io/kodluyoruz-odev-Vi/)
+
+-  [Codepen.io](https://codepen.io/klcahmet/pen/GRjPmwJ) 
+
+![](https://media.giphy.com/media/MwBv2do1kUbulfycHI/source.gif)
